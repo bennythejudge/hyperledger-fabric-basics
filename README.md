@@ -1,5 +1,7 @@
 # Hyperledger Fabric Basics
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/hyperledger-fabric-basics.svg)](https://www.guardrails.io)
+
 ## Overview
 
 This tutorial was presented as part of my presentation at All Things Open 2016 conference. My presentation focused on blockchain applications, and specifically, getting started with building an application with [Hyperledger Fabric](https://github.com/hyperledger/fabric). You can take a look at the presentation slides [here](All_Things_Open_v10262016.pdf).
